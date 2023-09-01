@@ -1,0 +1,5 @@
+org\aguzman\jdbc\mantenedorusuarios\MantenedorUsuariosJdbc.class
+org\aguzman\jdbc\mantenedorusuarios\modelo\Usuario.class
+org\aguzman\jdbc\mantenedorusuarios\repositorio\UsuarioRepositorioImpl.class
+org\aguzman\jdbc\mantenedorusuarios\util\ConexionBaseDatos.class
+org\aguzman\jdbc\mantenedorusuarios\repositorio\Repositorio.class
